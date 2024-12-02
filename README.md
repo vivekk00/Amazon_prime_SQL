@@ -20,4 +20,4 @@ The data foe this project is sourced from the Keggle dataset:
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
-## Schema
+## Business Problems and Solutions
