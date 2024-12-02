@@ -1,1 +1,2 @@
-# Amazon_prime_SQL
+# Amazone prime Movies and Tv Showes Data analysis using SQL
+
