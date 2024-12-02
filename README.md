@@ -3,6 +3,11 @@
 ![Amazon prime](https://github.com/vivekk00/Amazon_prime_SQL/blob/main/logo.webp)
 
 
+## Overview
+This project involves a comprehensive analysis of amazon prime movies and tv shows data using SQL.The goal is to 
+exctract valuable insights and answer various business question based on the dataset. The following README
+provides a detailes accounts of the project's objectives, business problems, solutions, findings, and conclusions.
+
 
 ## Objective
 
